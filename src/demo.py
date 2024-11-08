@@ -1,5 +1,7 @@
 import pandas as pd
 
+# Password: 123456
+
 # CSV ファイルを読み込む
 df = pd.read_csv('data.csv')
 
