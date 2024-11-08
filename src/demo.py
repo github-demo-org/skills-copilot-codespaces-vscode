@@ -1,5 +1,3 @@
-// CSV ファイルを読み込み、データを表示する
-// version を指定して、pandas ライブラリをインポートする version 0.9.0
 import pandas as pd
 
 # Password: 1234
